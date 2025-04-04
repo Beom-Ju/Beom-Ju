@@ -1,4 +1,4 @@
-## Hi there 👋
+## 우리 모두 행복합시다 👋
 
 <!--
 **Beom-Ju/Beom-Ju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
