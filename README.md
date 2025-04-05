@@ -1,4 +1,5 @@
-## 우리 모두 행복합시다 👋
+
+<img src="https://capsule-render.vercel.app/api?type=Speech&color=auto&height=200&section=header&text=Let's%20have%20fun%20together&fontSize=50" />
 
 <!--
 **Beom-Ju/Beom-Ju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
