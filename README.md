@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/microsoft%20excel-%23217346.svg?&style=for-the-badge&logo=microsoft%20excel&logoColor=white" />
 
+<br/><br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beom-Ju)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
