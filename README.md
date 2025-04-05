@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-## 기술스택
-
+## 기술스택<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />
 
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/> 	<img src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=for-the-badge&logo=eclipse%20ide&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" /> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
@@ -33,7 +32,7 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-## 자격증
+## 자격증<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Blue%20Book.png" alt="Blue Book" width="25" height="25" />
 
 빅데이터분석기사, 정보처리기사, ADSP, SQLD, <br/>
 컴퓨터활용능력 2급, SAS Certified Base Programmer for SAS 9
