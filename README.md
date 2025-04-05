@@ -33,6 +33,13 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
+## 자격증
+
+빅데이터분석기사, 정보처리기사, ADSP, SQLD, <br/>
+컴퓨터활용능력 2급, SAS Certified Base Programmer for SAS 9
+
+<br/><br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beom-Ju)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
